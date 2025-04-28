@@ -1,0 +1,9 @@
+<!-- styles.xml -->
+<resources>
+    <style name="Theme.Lab3Ex1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Các thuộc tính tuỳ chỉnh của theme -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
